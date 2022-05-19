@@ -284,7 +284,7 @@ $
 ## Authors :black_nib:
 
 * **Tobi Bamidele** **||** [Github](https://github.com/Crewseefix) **|** [Twitter](https://twitter.com/Savantbio) **|** [email](tostirma@gmail.com)  
-* **Omoloye Oluwatobi** **||** [Github]() **|** [Twitter]() **|** [email]()
+* **Omoloye Oluwatobi** **||** [Github](https://github.com/Omoloye ) **|** [Twitter](https://twitter.com/abiodunomoloye_) **|** [email](tobi_omoloye@yahoo.com )
 
 ## Acknowledgements :pray:
 
